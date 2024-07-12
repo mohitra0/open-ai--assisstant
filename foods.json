@@ -1,0 +1,862 @@
+[
+  {
+    "Category": "Indian",
+    "Subcategory": "Punjabi",
+    "Dish": "Butter Chicken",
+    "Pricing": 450,
+    "Restaurant": "Punjabi Dhaba",
+    "Rating": 4.5,
+    "Discount": "15% off",
+    "Delivery Time": "50 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "South Indian",
+    "Dish": "Masala Dosa",
+    "Pricing": 150,
+    "Restaurant": "South Spice",
+    "Rating": 4.3,
+    "Discount": "10% off",
+    "Delivery Time": "40 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Gujarati",
+    "Dish": "Dhokla",
+    "Pricing": 120,
+    "Restaurant": "Gujarati Rasoi",
+    "Rating": 4.2,
+    "Discount": "5% off",
+    "Delivery Time": "35 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Rajasthani",
+    "Dish": "Dal Baati Churma",
+    "Pricing": 350,
+    "Restaurant": "Rajasthani Delight",
+    "Rating": 4.4,
+    "Discount": "12% off",
+    "Delivery Time": "45 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Maharashtrian",
+    "Dish": "Vada Pav",
+    "Pricing": 80,
+    "Restaurant": "Mumbai Magic",
+    "Rating": 4.1,
+    "Discount": "8% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Bengali",
+    "Dish": "Fish Curry",
+    "Pricing": 400,
+    "Restaurant": "Bengali Bhoj",
+    "Rating": 4.6,
+    "Discount": "10% off",
+    "Delivery Time": "55 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Kashmiri",
+    "Dish": "Rogan Josh",
+    "Pricing": 500,
+    "Restaurant": "Kashmiri Kuisine",
+    "Rating": 4.7,
+    "Discount": "20% off",
+    "Delivery Time": "65 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Hyderabadi",
+    "Dish": "Hyderabadi Biryani",
+    "Pricing": 300,
+    "Restaurant": "Biryani House",
+    "Rating": 4.8,
+    "Discount": "10% off",
+    "Delivery Time": "60 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Goan",
+    "Dish": "Prawn Curry",
+    "Pricing": 420,
+    "Restaurant": "Goan Flavours",
+    "Rating": 4.5,
+    "Discount": "15% off",
+    "Delivery Time": "50 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Kerala",
+    "Dish": "Appam with Stew",
+    "Pricing": 250,
+    "Restaurant": "Kerala Kitchen",
+    "Rating": 4.3,
+    "Discount": "5% off",
+    "Delivery Time": "40 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Maharashtrian",
+    "Dish": "Puran Poli",
+    "Pricing": 200,
+    "Restaurant": "Flavors of India",
+    "Rating": 4.2,
+    "Discount": "10% off",
+    "Delivery Time": "35 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Punjabi",
+    "Dish": "Chole Bhature",
+    "Pricing": 180,
+    "Restaurant": "Punjabi Dhaba",
+    "Rating": 4.6,
+    "Discount": "12% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "South Indian",
+    "Dish": "Idli Sambar",
+    "Pricing": 100,
+    "Restaurant": "South Spice",
+    "Rating": 4.4,
+    "Discount": "5% off",
+    "Delivery Time": "25 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Gujarati",
+    "Dish": "Undhiyu",
+    "Pricing": 300,
+    "Restaurant": "Gujarati Rasoi",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "45 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Rajasthani",
+    "Dish": "Gatte ki Sabzi",
+    "Pricing": 280,
+    "Restaurant": "Rajasthani Delight",
+    "Rating": 4.3,
+    "Discount": "8% off",
+    "Delivery Time": "40 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Chocolate Sundae",
+    "Pricing": 120,
+    "Restaurant": "Ice Cream Haven",
+    "Rating": 4.7,
+    "Discount": "10% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Cheese Pizza",
+    "Pricing": 400,
+    "Restaurant": "Pizza Palace",
+    "Rating": 4.8,
+    "Discount": "20% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "French Fries",
+    "Pricing": 150,
+    "Restaurant": "Snack Shack",
+    "Rating": 4.5,
+    "Discount": "15% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Mango Ice Cream",
+    "Pricing": 100,
+    "Restaurant": "Sweet Treats",
+    "Rating": 4.6,
+    "Discount": "5% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Burger",
+    "Pricing": 200,
+    "Restaurant": "Burger Bliss",
+    "Rating": 4.4,
+    "Discount": "10% off",
+    "Delivery Time": "25 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Vanilla Cone",
+    "Pricing": 80,
+    "Restaurant": "Creamy Delights",
+    "Rating": 4.3,
+    "Discount": "8% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Hot Dog",
+    "Pricing": 220,
+    "Restaurant": "Fast Food Frenzy",
+    "Rating": 4.2,
+    "Discount": "12% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Strawberry Milkshake",
+    "Pricing": 150,
+    "Restaurant": "Milkshake Mania",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Nachos",
+    "Pricing": 180,
+    "Restaurant": "Snack Shack",
+    "Rating": 4.4,
+    "Discount": "8% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Butterscotch Delight",
+    "Pricing": 130,
+    "Restaurant": "Sweet Treats",
+    "Rating": 4.6,
+    "Discount": "5% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Tacos",
+    "Pricing": 250,
+    "Restaurant": "Mexican Munchies",
+    "Rating": 4.7,
+    "Discount": "10% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Tamil",
+    "Dish": "Chettinad Chicken",
+    "Pricing": 370,
+    "Restaurant": "Chettinad Express",
+    "Rating": 4.6,
+    "Discount": "18% off",
+    "Delivery Time": "55 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Bihari",
+    "Dish": "Litti Chokha",
+    "Pricing": 200,
+    "Restaurant": "Bihari Bhawan",
+    "Rating": 4.3,
+    "Discount": "12% off",
+    "Delivery Time": "35 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Mangalorean",
+    "Dish": "Neer Dosa",
+    "Pricing": 150,
+    "Restaurant": "Mangalore Spice",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Konkani",
+    "Dish": "Sol Kadhi",
+    "Pricing": 100,
+    "Restaurant": "Konkan Kafe",
+    "Rating": 4.2,
+    "Discount": "7% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Assamese",
+    "Dish": "Assam Laksa",
+    "Pricing": 320,
+    "Restaurant": "Assam Aroma",
+    "Rating": 4.4,
+    "Discount": "15% off",
+    "Delivery Time": "40 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Oriya",
+    "Dish": "Chhena Poda",
+    "Pricing": 180,
+    "Restaurant": "Odisha Delight",
+    "Rating": 4.3,
+    "Discount": "10% off",
+    "Delivery Time": "25 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Parsi",
+    "Dish": "Dhansak",
+    "Pricing": 400,
+    "Restaurant": "Parsi Palace",
+    "Rating": 4.7,
+    "Discount": "20% off",
+    "Delivery Time": "50 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Sindhi",
+    "Dish": "Sindhi Kadhi",
+    "Pricing": 220,
+    "Restaurant": "Sindhi Spice",
+    "Rating": 4.5,
+    "Discount": "12% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Nagaland",
+    "Dish": "Smoked Pork with Bamboo Shoot",
+    "Pricing": 350,
+    "Restaurant": "Nagaland Noodles",
+    "Rating": 4.6,
+    "Discount": "15% off",
+    "Delivery Time": "45 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Pistachio Kulfi",
+    "Pricing": 150,
+    "Restaurant": "Kulfi Kafe",
+    "Rating": 4.8,
+    "Discount": "10% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Street Food",
+    "Dish": "Pani Puri",
+    "Pricing": 60,
+    "Restaurant": "Chaat Corner",
+    "Rating": 4.3,
+    "Discount": "5% off",
+    "Delivery Time": "10 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Chicken Nuggets",
+    "Pricing": 200,
+    "Restaurant": "Fast Food Fiesta",
+    "Rating": 4.4,
+    "Discount": "12% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Chocolate Brownie Sundae",
+    "Pricing": 180,
+    "Restaurant": "Sweet Treats",
+    "Rating": 4.9,
+    "Discount": "15% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Chili Cheese Toast",
+    "Pricing": 150,
+    "Restaurant": "Snack Hub",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Blueberry Cheesecake Ice Cream",
+    "Pricing": 200,
+    "Restaurant": "Creamy Delights",
+    "Rating": 4.7,
+    "Discount": "10% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Street Food",
+    "Dish": "Samosa Chaat",
+    "Pricing": 100,
+    "Restaurant": "Chaat House",
+    "Rating": 4.4,
+    "Discount": "8% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Butterscotch Crunch",
+    "Pricing": 160,
+    "Restaurant": "Ice Cream Island",
+    "Rating": 4.6,
+    "Discount": "7% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Loaded Nachos",
+    "Pricing": 250,
+    "Restaurant": "Nacho Nation",
+    "Rating": 4.8,
+    "Discount": "15% off",
+    "Delivery Time": "25 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Mint Chocolate Chip",
+    "Pricing": 140,
+    "Restaurant": "Cool Cones",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Street Food",
+    "Dish": "Dabeli",
+    "Pricing": 70,
+    "Restaurant": "Street Eats",
+    "Rating": 4.2,
+    "Discount": "5% off",
+    "Delivery Time": "10 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Tamil",
+    "Dish": "Kuzhi Paniyaram",
+    "Pricing": 180,
+    "Restaurant": "Chettinad Express",
+    "Rating": 4.4,
+    "Discount": "15% off",
+    "Delivery Time": "35 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Bihari",
+    "Dish": "Thekua",
+    "Pricing": 140,
+    "Restaurant": "Bihari Bhawan",
+    "Rating": 4.2,
+    "Discount": "10% off",
+    "Delivery Time": "25 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Mangalorean",
+    "Dish": "Mangalore Buns",
+    "Pricing": 120,
+    "Restaurant": "Mangalore Spice",
+    "Rating": 4.6,
+    "Discount": "12% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Konkani",
+    "Dish": "Bombil Fry",
+    "Pricing": 250,
+    "Restaurant": "Konkan Kafe",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "40 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Assamese",
+    "Dish": "Pitika",
+    "Pricing": 200,
+    "Restaurant": "Assam Aroma",
+    "Rating": 4.3,
+    "Discount": "8% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Oriya",
+    "Dish": "Pakhala Bhata",
+    "Pricing": 180,
+    "Restaurant": "Odisha Delight",
+    "Rating": 4.1,
+    "Discount": "5% off",
+    "Delivery Time": "35 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Parsi",
+    "Dish": "Patra ni Machhi",
+    "Pricing": 450,
+    "Restaurant": "Parsi Palace",
+    "Rating": 4.7,
+    "Discount": "20% off",
+    "Delivery Time": "55 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Sindhi",
+    "Dish": "Sai Bhaji",
+    "Pricing": 300,
+    "Restaurant": "Sindhi Spice",
+    "Rating": 4.4,
+    "Discount": "10% off",
+    "Delivery Time": "35 mins"
+  },
+  {
+    "Category": "Indian",
+    "Subcategory": "Nagaland",
+    "Dish": "Axone",
+    "Pricing": 320,
+    "Restaurant": "Nagaland Noodles",
+    "Rating": 4.3,
+    "Discount": "12% off",
+    "Delivery Time": "45 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Rose Falooda",
+    "Pricing": 160,
+    "Restaurant": "Kulfi Kafe",
+    "Rating": 4.8,
+    "Discount": "10% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Street Food",
+    "Dish": "Chole Kulche",
+    "Pricing": 100,
+    "Restaurant": "Chaat Corner",
+    "Rating": 4.3,
+    "Discount": "7% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Onion Rings",
+    "Pricing": 150,
+    "Restaurant": "Fast Food Fiesta",
+    "Rating": 4.4,
+    "Discount": "10% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Caramel Swirl",
+    "Pricing": 170,
+    "Restaurant": "Sweet Treats",
+    "Rating": 4.7,
+    "Discount": "15% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Paneer Tikka Wrap",
+    "Pricing": 200,
+    "Restaurant": "Snack Hub",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "25 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Coconut Ice Cream",
+    "Pricing": 150,
+    "Restaurant": "Creamy Delights",
+    "Rating": 4.6,
+    "Discount": "8% off",
+    "Delivery Time": "20 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Street Food",
+    "Dish": "Aloo Tikki",
+    "Pricing": 90,
+    "Restaurant": "Chaat House",
+    "Rating": 4.2,
+    "Discount": "5% off",
+    "Delivery Time": "10 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Raspberry Sorbet",
+    "Pricing": 140,
+    "Restaurant": "Ice Cream Island",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Fast Food",
+    "Dish": "Quesadilla",
+    "Pricing": 260,
+    "Restaurant": "Nacho Nation",
+    "Rating": 4.8,
+    "Discount": "15% off",
+    "Delivery Time": "30 mins"
+  },
+  {
+    "Category": "Ice Cream",
+    "Subcategory": "Dessert",
+    "Dish": "Green Tea Ice Cream",
+    "Pricing": 130,
+    "Restaurant": "Cool Cones",
+    "Rating": 4.5,
+    "Discount": "10% off",
+    "Delivery Time": "15 mins"
+  },
+  {
+    "Category": "Junk Food",
+    "Subcategory": "Street Food",
+    "Dish": "Pav Bhaji",
+    "Pricing": 180,
+    "Restaurant": "Street Eats",
+    "Rating": 4.4,
+    "Discount": "8% off",
+    "Delivery Time": "20 mins"
+  },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Veggie Burger",
+      "Pricing": 180,
+      "Restaurant": "Burger Bliss",
+      "Rating": 4.5,
+      "Discount": "10% off",
+      "Delivery Time": "20 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Loaded Fries",
+      "Pricing": 160,
+      "Restaurant": "Snack Shack",
+      "Rating": 4.6,
+      "Discount": "12% off",
+      "Delivery Time": "15 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Chicken Quesadilla",
+      "Pricing": 220,
+      "Restaurant": "Mexican Munchies",
+      "Rating": 4.7,
+      "Discount": "10% off",
+      "Delivery Time": "25 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Bhel Puri",
+      "Pricing": 80,
+      "Restaurant": "Chaat Corner",
+      "Rating": 4.4,
+      "Discount": "5% off",
+      "Delivery Time": "10 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Sev Puri",
+      "Pricing": 90,
+      "Restaurant": "Chaat House",
+      "Rating": 4.3,
+      "Discount": "7% off",
+      "Delivery Time": "10 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Pepperoni Pizza",
+      "Pricing": 350,
+      "Restaurant": "Pizza Palace",
+      "Rating": 4.8,
+      "Discount": "15% off",
+      "Delivery Time": "30 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Paneer Roll",
+      "Pricing": 120,
+      "Restaurant": "Street Eats",
+      "Rating": 4.4,
+      "Discount": "8% off",
+      "Delivery Time": "15 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Garlic Bread",
+      "Pricing": 140,
+      "Restaurant": "Snack Hub",
+      "Rating": 4.5,
+      "Discount": "10% off",
+      "Delivery Time": "20 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Cheesy Nachos",
+      "Pricing": 180,
+      "Restaurant": "Nacho Nation",
+      "Rating": 4.7,
+      "Discount": "12% off",
+      "Delivery Time": "25 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Chicken Wings",
+      "Pricing": 250,
+      "Restaurant": "Wing World",
+      "Rating": 4.6,
+      "Discount": "15% off",
+      "Delivery Time": "30 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Paneer Tikka",
+      "Pricing": 200,
+      "Restaurant": "Street Eats",
+      "Rating": 4.5,
+      "Discount": "10% off",
+      "Delivery Time": "20 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Mozzarella Sticks",
+      "Pricing": 170,
+      "Restaurant": "Snack Shack",
+      "Rating": 4.6,
+      "Discount": "12% off",
+      "Delivery Time": "15 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Rajma Chawal",
+      "Pricing": 130,
+      "Restaurant": "Chaat Corner",
+      "Rating": 4.3,
+      "Discount": "8% off",
+      "Delivery Time": "20 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Chicken Shawarma",
+      "Pricing": 210,
+      "Restaurant": "Fast Food Fiesta",
+      "Rating": 4.5,
+      "Discount": "10% off",
+      "Delivery Time": "25 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Keema Pav",
+      "Pricing": 160,
+      "Restaurant": "Street Eats",
+      "Rating": 4.4,
+      "Discount": "7% off",
+      "Delivery Time": "20 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Falafel Wrap",
+      "Pricing": 190,
+      "Restaurant": "Snack Hub",
+      "Rating": 4.5,
+      "Discount": "10% off",
+      "Delivery Time": "25 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Mac and Cheese",
+      "Pricing": 230,
+      "Restaurant": "Cheese Haven",
+      "Rating": 4.6,
+      "Discount": "12% off",
+      "Delivery Time": "20 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Street Food",
+      "Dish": "Egg Roll",
+      "Pricing": 110,
+      "Restaurant": "Chaat House",
+      "Rating": 4.4,
+      "Discount": "8% off",
+      "Delivery Time": "15 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Fish and Chips",
+      "Pricing": 280,
+      "Restaurant": "Snack Shack",
+      "Rating": 4.7,
+      "Discount": "15% off",
+      "Delivery Time": "30 mins"
+    },
+    {
+      "Category": "Junk Food",
+      "Subcategory": "Fast Food",
+      "Dish": "Veggie Tacos",
+      "Pricing": 170,
+      "Restaurant": "Mexican Munchies",
+      "Rating": 4.5,
+      "Discount": "10% off",
+      "Delivery Time": "20 mins"
+    }
+  ]  

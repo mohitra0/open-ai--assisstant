@@ -1,0 +1,52 @@
+###
+POST http://localhost:3000/builtin
+Content-Type: application/json
+
+{         
+    "message": "Hello, how are you?"
+}
+
+
+###
+POST http://localhost:3000/send_message
+Content-Type: application/json
+
+{         
+    "txt": "show me junk food",
+    "threadid": "thread_bzg7iijny992cI7iBcirlkqj",
+    "assistantid":"asst_0m9NUfsbFf5QohjX0PXWJl7L"
+}
+
+
+###
+POST http://localhost:3000/getmessages
+Content-Type: application/json
+
+{         
+    "threadid": "thread_bzg7iijny992cI7iBcirlkqj"
+}
+
+
+###
+POST http://localhost:3000/upload_file
+Content-Type: application/json
+
+{         
+
+}
+
+###
+POST http://localhost:3000/check_assisstabt
+Content-Type: application/json
+
+{         
+
+}
+
+###
+POST http://localhost:3000/reterive_message
+Content-Type: application/json
+
+{         
+
+}
